@@ -6,7 +6,7 @@ body {
   form {
     text-align: center;
     line-height: 30px;
-    height: 80%;
+    height: 90%;
     overflow: auto;
   }
 
@@ -21,7 +21,7 @@ body {
   #overlay {
     width: 80%;
     margin: 3% auto;
-    height: 95vh;
+    height: 55vh;
     background-color: rgba(255, 255, 255, 0.9);
     border-radius: 40px;
   }
